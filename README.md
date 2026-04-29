@@ -28,19 +28,19 @@ The model achieves an accuracy of approximately **99%** on the test set when $K=
 
 Finding the optimal $K$ by testing odd numbers from $1$ to $15$:
 ![Accuracy vs K](assets/accuracy_vs_k.png)
-_(Note: Create an `assets` folder and add your plot here)_
+
 
 ### 2. Confusion Matrix
 
 A heatmap showing the true labels vs. the model's predictions. Most errors are between visually similar digits (e.g., $3$ and $8$).
 ![Confusion Matrix](assets/confusion_matrix.png)
-_(Note: Add your confusion matrix heatmap here)_
+
 
 ### 3. Misclassified Samples
 
 Visualizing where the model failed to understand the context of the errors.
 ![Misclassified Digits](assets/misclassified.png)
-_(Note: Add the image of the misclassified digits here)_
+
 
 ## 💻 How to Run
 
