@@ -69,8 +69,8 @@ _(Note: Add the image of the misclassified digits here)_
 ├── requirements.txt                      # Project dependencies
 ├── README.md                             # Project documentation
 └── .gitignore                            # Ignored files
-
+```
 ## 📄 License
 
 This project is licensed under the MIT License.
-```
+
